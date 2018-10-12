@@ -1,0 +1,24 @@
+{
+  "name": "Omnia",
+  "version": "1.0.0",
+  "description": "server side app code for payment gateway",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node-router": "^0.1.5",
+    "randomstring": "^1.1.5",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Omnia",
+    "payment",
+    "gateway"
+  ],
+  "author": "Deepak Vardhan",
+  "license": "ISC"
+}
